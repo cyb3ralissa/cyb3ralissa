@@ -1,5 +1,9 @@
 <h1>Hi, I'm Alissa!</h1>
 
+<h2>Passion Projects </h2>
+
+- [RiskRadarTool: A Risk Assessment Tool](https://github.com/cyb3ralissa/RiskRadarTool)
+
 <h2>📺 YouTube Videos </h2>
 
 - [Short: Hacking the truth in Hollywood](https://www.youtube.com/shorts/knj1PSMWrYU)
