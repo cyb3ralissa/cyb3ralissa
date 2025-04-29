@@ -4,7 +4,7 @@
 
 - [RiskRadarTool: A Risk Assessment Tool](https://github.com/cyb3ralissa/RiskRadarTool)
 
-<h2>📺 YouTube Videos </h2>
+<h2>YouTube Videos </h2>
 
 - [Short: Hacking the truth in Hollywood](https://www.youtube.com/shorts/knj1PSMWrYU)
 
@@ -17,10 +17,10 @@
 - [Disney Villains Unleashed: A Cybersecurity Tale](https://www.canva.com/design/DAF-FRmvRW8/mJXJIaK_DU6NsrOYtP2vNQ/view?utm_content=DAF-FRmvRW8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0791c95cbe)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="cyb3ralissa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="cyb3ralissa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][tiktok]
+[<img align="left" alt="cyb3ralissa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 [<img align="left" alt="Alissa Butcher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cyb3ralissa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
