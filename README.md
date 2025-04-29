@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Alissa!</h1>
 
-<!--
-**cyb3ralissa/cyb3ralissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📺 YouTube Videos </h2>
 
-Here are some ideas to get you started:
+- [Short: Hacking the truth in Hollywood](https://www.youtube.com/shorts/knj1PSMWrYU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="cyb3ralissa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="cyb3ralissa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][tiktok]
+[<img align="left" alt="Alissa Butcher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="cyb3ralissa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[tiktok]: https://www.tiktok.com/@cyb3ralissa
+[youtube]: https://www.youtube.com/@cyb3ralissa
+[instagram]: https://www.instagram.com/cyb3ralissa/
+[linkedin]: https://www.linkedin.com/in/alissabutcher/
