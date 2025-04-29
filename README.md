@@ -4,6 +4,14 @@
 
 - [Short: Hacking the truth in Hollywood](https://www.youtube.com/shorts/knj1PSMWrYU)
 
+<h2> Conference Presentations </h2>
+
+<b>Women In Cybersecurity Conference 2025:</b>
+- [Hacking Hollywood:Truth Behing Cybersecurity in Pop Culture](https://www.canva.com/design/DAGg4vIShWY/j_0p0xICZAKz4M9-lIpsOA/view?utm_content=DAGg4vIShWY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbe43bd0bb9)
+
+<b>Women In Cybersecurity Conference 2024:</b>
+- [Disney Villains Unleashed: A Cybersecurity Tale](https://www.canva.com/design/DAF-FRmvRW8/mJXJIaK_DU6NsrOYtP2vNQ/view?utm_content=DAF-FRmvRW8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0791c95cbe)
+
 
 <h2> 🤳 Connect with me:</h2>
 
