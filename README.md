@@ -7,7 +7,7 @@
 <h2>YouTube Videos </h2>
 
 - [Short: Hacking the truth in Hollywood](https://www.youtube.com/shorts/knj1PSMWrYU)
-- [How I spoke at a conference]([https://www.youtube.com/shorts/knj1PSMWrYU](https://www.youtube.com/watch?v=_8kpnLZDolQ&t=57s))
+- [How I spoke at a conference](https://www.youtube.com/watch?v=_8kpnLZDolQ&t=57s)
 
 <h2> Conference Presentations </h2>
 
