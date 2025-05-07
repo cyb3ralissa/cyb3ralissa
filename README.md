@@ -7,7 +7,7 @@
 <h2>YouTube Videos </h2>
 
 - [Short: Hacking the truth in Hollywood](https://www.youtube.com/shorts/knj1PSMWrYU)
-- [How I Got Chosen to Speak at a Conference (And How You Can Too!](https://www.youtube.com/watch?v=_8kpnLZDolQ&t=57s)
+- [How I Got Chosen to Speak at a Conference (And How You Can Too!)](https://www.youtube.com/watch?v=_8kpnLZDolQ&t=57s)
 
 <h2> Conference Presentations </h2>
 
